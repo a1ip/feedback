@@ -3,7 +3,10 @@
 		{
 			"title": "SomeTitle",
 			"subtitle": "someSubtitle",
-			"id": "sometitle-somesubtitle"
+			"id": "sometitle-somesubtitle",
+			"content": [
+				"Some content"
+			]
 		}
 	]
 }
